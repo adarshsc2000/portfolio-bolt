@@ -3,15 +3,15 @@
 
 export const personalInfo = {
   // Basic Info
-  name: "Your Name",
-  title: "Full Stack Developer",
-  email: "your.email@example.com",
-  phone: "+1 (555) 123-4567",
-  location: "San Francisco, CA",
+  name: "Adarsh Shinju Chandran",
+  title: "Full Stack Developer || ML Enthusiast || Software Engineer || Problem Solver || Artist",
+  email: "adarshsc2000@gmail.com",
+  phone: "+973 34669294",
+  location: "Bahrain",
   
   // Bio
   bio: {
-    intro: "Hello! I'm a full stack developer with over 5 years of experience building web applications that solve real problems. My journey in tech began with curiosity about how websites work, and it's evolved into a deep passion for crafting digital experiences that make a difference.",
+    intro: "Hello! I'm a full stack developer with over 2 years of experience building web applications that solve real problems. My journey in tech began with curiosity about how websites work, and it's evolved into a deep passion for crafting digital experiences that make a difference.",
     
     expertise: "I specialize in modern JavaScript frameworks, with expertise in React, Node.js, and cloud technologies. But beyond the technical skills, I believe in the power of collaboration, continuous learning, and building products that users genuinely love to use.",
     
@@ -20,10 +20,9 @@ export const personalInfo = {
 
   // Social Links
   social: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    twitter: "https://twitter.com/yourusername",
-    portfolio: "https://yourportfolio.com"
+    github: "https://github.com/adarshsc2000",
+    linkedin: "https://linkedin.com/in/adarshsc2000",
+    portfolio: "https://adarsh-bolt.netlify.app",
   },
 
   // Skills
